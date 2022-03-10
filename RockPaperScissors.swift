@@ -9,7 +9,6 @@
 //  This program makes the user play rock paper scissors with the computer.
 //
 
-
 import Foundation
 
 // This function generates a random rock, paper or scissors choice as the
